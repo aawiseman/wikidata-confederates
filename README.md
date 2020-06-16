@@ -1,18 +1,24 @@
 # wikidata-confederates
-Data from Wikidata for Confederate generals, military officers and politicians, which you can use to see if there are any things near you named for them. The goal is to get those things renamed.
 
-list_of_confederates.csv is a parsed version of all of the queries put together, for ease of use, with just the names and the query they came from. There may be some duplicates. That is probably the best place to start.
+## What is this
+Data from [Wikidata](https://www.wikidata.org) for Confederate generals, military officers and politicians, which you can use to see if there are any things near you named for them. The goal is to get those things renamed. Wikidata is related to Wikipedia, it's a database of various kinds of things, like people, places, and so on.
 
+## How to use it
+Download **[list_of_confederates.csv](https://raw.githubusercontent.com/aawiseman/wikidata-confederates/master/list_of_confederates.csv)**  and compare it to whatever other data you are interested in, such as your town or state's streets, schools, parks, and so on. See if any match up. However, make sure to do additional research for common names to see if it's another person by the same name. 
+
+list_of_confederates.csv is a big list of all the data I've gathered from Wikidata with the names of Confederates and the source of that person's name. There may be some duplicates or false positives.
+
+There are also raw data files if you want them in the Raw data folder, but they are pretty complicated and may be hard to parse.
+
+NOTE: Not all Confederate generals, officers and officials may be listed. I plan to add more.
+
+## Source of data
 I'm compiling these from Wikidata, via the WDumper tool: https://tools.wmflabs.org/wdumps/dumps. Here is more info on the dumps: https://www.wikidata.org/wiki/Wikidata:Database_download
 
-I posted the raw data dumps as well, but they are kind of complicated.
-
-The queries are as follows:
+The queries I ran are as follows. More to come.
 
 - P27: country of citizenship - Confederate States of America
 - P241: military branch - Confederate States of America army
 - P410: military rank - generals in the Confederate Army
 
-How I think this could be used: download whatever list you'd like and compare it to your town or state's streets, schools, parks, and so on. See if any match up. However, make sure to do additional research for common names to see if it's another person by the same name. There may be some false positives too.
 
-NOTE: Not all Confederate generals, officers and officials may be listed. I plan to add more.
