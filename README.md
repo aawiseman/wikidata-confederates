@@ -6,9 +6,9 @@ Data from [Wikidata](https://www.wikidata.org) for Confederate generals, militar
 ## How to use it
 Download **[list_of_confederates.csv](https://raw.githubusercontent.com/aawiseman/wikidata-confederates/master/list_of_confederates.csv)**  and compare it to whatever other data you are interested in, such as your town or state's streets, schools, parks, and so on. See if any match up. However, make sure to do additional research for common names to see if it's another person by the same name. 
 
-list_of_confederates.csv is a big list of all the data I've gathered from Wikidata with the names of Confederates and the source of that person's name. There may be some duplicates or false positives.
+You can open **list_of_confederates.csv** with any spreadsheet application. It's a big, simple list of all the data I've gathered from Wikidata with the names of Confederates and the source of that person's name. There may be some duplicates or false positives because it is based on Wikidata which may not be perfect.
 
-There are also raw data files if you want them in the Raw data folder, but they are pretty complicated and may be hard to parse.
+There are also raw data files if you want them in the *Raw data from Wikidata* folder, but they are pretty complicated and may be hard to parse.
 
 NOTE: Not all Confederate generals, officers and officials may be listed. I plan to add more.
 
