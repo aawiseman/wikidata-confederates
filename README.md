@@ -10,3 +10,7 @@ The queries are as follows:
 - P27: country of citizenship - Confederate States of America
 - P241: military branch - Confederate States of America army
 - P410: military rank - generals in the Confederate Army
+
+How I think this could be used: download whatever list you'd like and compare it to your town or state's streets, schools, parks, and so on. See if any match up. However, make sure to do additional research for common names to see if it's another person by the same name.
+
+NOTE: Not all Confederate generals, officers and officials may be listed. I plan to add more.
