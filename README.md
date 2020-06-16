@@ -7,6 +7,6 @@ The raw data is kind of complicated so I am going to post that in case someone w
 
 The queries are as follows:
 
-P27: country of citizenship - Confederate States of America
-P241: military branch - Confederate States of America army
-P410: military rank - generals in the Confederate Army
+- P27: country of citizenship - Confederate States of America
+- P241: military branch - Confederate States of America army
+- P410: military rank - generals in the Confederate Army
