@@ -18,6 +18,7 @@ I'm compiling these from Wikidata, via the [WDumper tool](https://tools.wmflabs.
 The queries I ran are as follows. More to come.
 
 - P27: country of citizenship - Confederate States of America
+- P39: position held - Confederate States of America secretary of treasury, war, or state
 - P241: military branch - Confederate States of America army
 - P410: military rank - generals in the Confederate Army
 
