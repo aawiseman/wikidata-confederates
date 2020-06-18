@@ -15,11 +15,11 @@ NOTE: Not all Confederate generals, officers and officials may be listed. I plan
 ## Source of data
 I'm compiling these from Wikidata, via the [WDumper tool](https://tools.wmflabs.org/wdumps/dumps). Here is [more info](https://www.wikidata.org/wiki/Wikidata:Database_download) on the dumps. 
 
-The queries I ran are as follows. More to come.
+The list includes the following data sets:
 
-- P27: country of citizenship - Confederate States of America
-- P39: position held - Confederate States of America secretary of treasury, war, or state
-- P241: military branch - Confederate States of America army
-- P410: military rank - generals in the Confederate Army
+- Military branch - Confederate States of America army (P241 on Wikidata, mostly CSA generals)
+- Military rank - generals in the Confederate Army (P410 on Wikidata)
+- Country of citizenship - Confederate States of America (P27 on Wikidata, mostly CSA generals and government officials)
+- Position held - Confederate States of America (P39 on Wikidata, Secretaries of treasury, war, and state)
 
 
