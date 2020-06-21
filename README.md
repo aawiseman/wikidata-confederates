@@ -20,6 +20,7 @@ The list includes the following data sets:
 - Military branch - Confederate States of America army (P241 on Wikidata, mostly CSA generals)
 - Military rank - generals in the Confederate Army (P410 on Wikidata)
 - Country of citizenship - Confederate States of America (P27 on Wikidata, mostly CSA generals and government officials)
-- Position held - Confederate States of America (P39 on Wikidata, Secretaries of treasury, war, and state)
+- Position held - Confederate States of America (P39 on Wikidata, CSA Secretaries of treasury, war, and state)
+- Allegiance - Confederate States of America (P945 on Wikidata, mostly CSA military officers)
 
 
