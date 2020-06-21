@@ -1,7 +1,7 @@
 # wikidata-confederates
 
 ## What is this
-A list of for Confederate generals, military officers and politicians, which you can use to see if there are any things near you named for them. The goal is to get those things renamed. The data comes from [Wikidata](https://www.wikidata.org), which is related to Wikipedia, it's a database of various kinds of things, like people, places, and so on.
+A list of Confederate generals, military officers and politicians, which you can use to see if there are any things near you named for them. The goal is to get those things renamed. The data comes from [Wikidata](https://www.wikidata.org), which is related to Wikipedia, it's a database of various kinds of things, like people, places, and so on.
 
 ## How to use it
 Download **[list_of_confederates.csv](https://raw.githubusercontent.com/aawiseman/wikidata-confederates/master/list_of_confederates.csv)**  and compare it to whatever other data you are interested in, such as your town or state's streets, schools, parks, and so on. See if any match up. However, make sure to do additional research for common names to see if it's another person by the same name. 
